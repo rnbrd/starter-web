@@ -16,3 +16,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 Any old way.
 
 ## How to Contribute
+
+## Copyright
+
+2016 Jason Eriksen
