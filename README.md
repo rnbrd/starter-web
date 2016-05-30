@@ -17,6 +17,8 @@ Any old way.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests.
+
 ## Copyright
 
 2016 Jason Eriksen
