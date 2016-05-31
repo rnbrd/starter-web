@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work. Yup, it really is. Really. 
-Why are you still reading this?
+Why are you still reading this? Updating README.md
 
 ## Introduction
 
