@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests.
 
 ## Copyright
 
-2016 Jason Eriksen
+2016 Jason Eriksen. All rights reserved.
